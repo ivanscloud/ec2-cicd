@@ -1,2 +1,2 @@
 #!/bin/bash
-scp -r -i ~/personal-aws-thinkpad.pem ./program/* ubuntu@18.138.212.152:/home/ubuntu/app
+scp -r -i ~/personal-aws-thinkpad.pem ./program/* ubuntu@3.1.51.93:/home/ubuntu/app

@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh -i ~/personal-aws-thinkpad.pem ubuntu@18.138.212.152
+ssh -i ~/personal-aws-thinkpad.pem ubuntu@3.1.51.93
