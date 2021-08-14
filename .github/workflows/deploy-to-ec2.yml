@@ -14,7 +14,7 @@ jobs:
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
         script: |
-          if [ ! -d :/home/ubuntu/app" ]
+          if [ ! -d "/home/ubuntu/app" ]
           then
             git clone git@github.com:ivanscloud/ec2-cicd.git /home/ubuntu/app
           fi
